@@ -9,7 +9,7 @@
 1.colorUi库为主使用，github地址: https://github.com/weilanwl/ColorUI/
 
 2.wux 小程序原生ui库辅助使用，github地址: https://github.com/wux-weapp/wux-weapp/
-按需单独引入不要全局引入。 参考src/app.json 自定义顶部导航栏引入
+按需单独引入不要全局引入。 参考src/router/index.js 引入自定义组件
 
 #开发注意
 1.参考mpvue官方文档, 请勿使用不支持的vue语法
